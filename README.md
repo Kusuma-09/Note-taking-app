@@ -1,4 +1,4 @@
-# Note-taking-pg-using-tkinter
+# Note taking app
 
 An application created using tkinter which allows us to take notes or to-do list and save them for later use.
 ### Package used-Tkinter module,Themed tkinter,TtkBootstrap module for styling
